@@ -1,0 +1,35 @@
+<data>
+
+    <student name="John">
+    <email> john@gmail.com</email>
+    <roll_no> 1 </roll_no>
+    <age> 16 </age>
+    </student>
+
+    <student name="Pratap">
+    <email> pratap@gmail.com</email>
+    <roll_no> 2 </roll_no>
+    <age> 15 </age>
+    </student>
+
+    <student name="Lydia">
+    <email> lydia@gmail.com</email>
+    <roll_no> 3 </roll_no>
+    <age> 16 </age>
+    </student>
+
+    <student name="Subhash">
+    <email> shubash@gmail.com</email>
+    <roll_no> 4 </roll_no>
+    <age> 17 </age>
+    </student>
+
+    <student name="Naved">
+    <email> naved@gmail.com</email>
+    <roll_no> 5 </roll_no>
+    <age> 16 </age>
+    </student>
+
+</data>
+
+
